@@ -1,10 +1,3 @@
-# DevOps Monitoring Stack (Prometheus + Grafana)
-
-A simple monitoring stack using Docker Compose:
-- Prometheus (metrics)
-- Node Exporter (host metrics)
-- Grafana (dashboards)
-
-## Run
+CI/CD Pipeline implemented using GitHub Actions to automatically build Docker images and verify deployments.## Run
 ```bash
 docker compose up -d
